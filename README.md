@@ -9,22 +9,22 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 
 ## ✨ Features
 
-- 🌞 **Day Mode**
+🌞 **Day Mode**
   - ☁️ Animated passing clouds
-  - &nbsp;&nbsp;🎨 Warm gradient sky
+  - 🎨 Warm gradient sky
 
-- 🌙 **Night Mode**
-  - &nbsp;&nbsp;🌙 Right-facing crescent moon (clean cut, no fake shadow)
-  - &nbsp;&nbsp;⭐ Twinkling stars
-  - &nbsp;&nbsp;☄️ Subtle, realistic comet animation
+🌙 **Night Mode**
+  - 🌙 Right-facing crescent moon (clean cut, no fake shadow)
+  - ⭐ Twinkling stars
+  - ☄️ Subtle, realistic comet animation
 
-- ⏱️ Cloud & comet animations run **once every 30 seconds**
+⏱️ Cloud & comet animations run **once every 30 seconds**
 
-- 💾 Theme persistence using `localStorage`
+💾 Theme persistence using `localStorage`
 
-- 🧩 Easily reusable, framework-agnostic component
+🧩 Easily reusable, framework-agnostic component
 
-- 🚫 No libraries, no frameworks, no images
+🚫 No libraries, no frameworks, no images
 
 ---
 
