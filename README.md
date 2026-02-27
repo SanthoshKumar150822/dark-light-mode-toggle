@@ -10,15 +10,20 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 ## ✨ Features
 
 - 🌞 **Day Mode**
-  &nbsp;&nbsp; ☁️ Animated passing clouds
-  &nbsp;&nbsp; 🎨 Warm gradient sky
+  - ☁️ Animated passing clouds
+  - &nbsp;&nbsp;🎨 Warm gradient sky
+
 - 🌙 **Night Mode**
   - &nbsp;&nbsp;🌙 Right-facing crescent moon (clean cut, no fake shadow)
   - &nbsp;&nbsp;⭐ Twinkling stars
   - &nbsp;&nbsp;☄️ Subtle, realistic comet animation
+
 - ⏱️ Cloud & comet animations run **once every 30 seconds**
+
 - 💾 Theme persistence using `localStorage`
+
 - 🧩 Easily reusable, framework-agnostic component
+
 - 🚫 No libraries, no frameworks, no images
 
 ---
@@ -26,7 +31,9 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 ## 🛠 Tech Stack
 
 - **HTML** – Structure
+
 - **CSS** – Gradients, shapes, and animations
+
 - **JavaScript** – Theme state, timers, and persistence
 
 ---
@@ -72,8 +79,11 @@ No build step required.
 ## 🎯 Use Cases
 
 - Portfolio websites
+
 - UI/UX animation demos
+
 - Design systems
+
 - Theme toggles for web applications
 
 ---
@@ -81,8 +91,11 @@ No build step required.
 ## 🧠 Key Learnings
 
 - Creating CSS-only shapes using gradients
+
 - Coordinating animations with JavaScript timers
+
 - Managing UI state with `localStorage`
+
 - Building reusable UI components without frameworks
 
 ---
