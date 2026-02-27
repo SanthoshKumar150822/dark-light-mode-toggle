@@ -40,7 +40,7 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 
 ## Watch Demo Video
 
-[▶]([YouTube](https://youtu.be/8iLpPdusxX8))
+▶([YouTube](https://youtu.be/8iLpPdusxX8))
 
 ---
 
@@ -74,6 +74,7 @@ No build step required.
 └── style.css
 └── script.js
 └── README.md
+└── Dark-Light Mode Toggle Button Output.mp4
 ```
 
 ---
