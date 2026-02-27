@@ -10,8 +10,8 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 ## ✨ Features
 
 - 🌞 **Day Mode**
-  - &nbsp;&nbsp;☁️ Animated passing clouds
-  - &nbsp;&nbsp;🎨 Warm gradient sky
+  &nbsp;&nbsp; - ☁️ Animated passing clouds
+  &nbsp;&nbsp; - 🎨 Warm gradient sky
 - 🌙 **Night Mode**
   - &nbsp;&nbsp;🌙 Right-facing crescent moon (clean cut, no fake shadow)
   - &nbsp;&nbsp;⭐ Twinkling stars
