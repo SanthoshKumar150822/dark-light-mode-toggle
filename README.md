@@ -9,11 +9,11 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 
 ## ✨ Features
 
-🌞 **Day Mode**
+🌞 **Light Mode**
   - ☁️ Animated passing clouds
   - 🎨 Warm gradient sky
 
-🌝 **Night Mode**
+🌝 **Dark Mode**
   - 🌙 Right-facing crescent moon (clean cut, no fake shadow)
   - ⭐ Twinkling stars
   - ☄️ Subtle, realistic comet animation
