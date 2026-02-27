@@ -1,6 +1,6 @@
-# 🌗 Animated Day/Night Theme Toggle
+# 🌗 Animated Dark/Light Theme Toggle
 
-A **pixel-perfect animated day/night theme toggle** built using **pure (vanilla) HTML, CSS, and JavaScript**.  
+A **pixel-perfect animated dark/light theme toggle** built using **pure (vanilla) HTML, CSS, and JavaScript**.  
 It features smooth visual transitions and realistic sky elements like **clouds, stars, a crescent moon, and a comet**, along with **persistent theme state** across page refreshes.
 
 This project is lightweight, framework-free, and designed with clean UI/UX principles.
