@@ -13,7 +13,7 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
   - ☁️ Animated passing clouds
   - 🎨 Warm gradient sky
 
-🌙 **Night Mode**
+🌝 **Night Mode**
   - 🌙 Right-facing crescent moon (clean cut, no fake shadow)
   - ⭐ Twinkling stars
   - ☄️ Subtle, realistic comet animation
@@ -69,7 +69,7 @@ No build step required.
 ## 📂 Project Structure
 
 ```
-.
+dark-light-mode-toggle
 ├── index.html
 └── style.css
 └── script.js
