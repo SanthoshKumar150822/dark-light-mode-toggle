@@ -55,7 +55,7 @@ git clone https://github.com/your-username/your-repo-name.git
 Open the project:
 
 ```bash
-cd your-repo-name
+cd dark-light-mode-toggle
 ```
 
 Run:
@@ -71,6 +71,8 @@ No build step required.
 ```
 .
 ├── index.html
+└── style.css
+└── script.js
 └── README.md
 ```
 
