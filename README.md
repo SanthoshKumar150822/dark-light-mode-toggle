@@ -38,9 +38,9 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 
 ---
 
-## 📸 Demo / Preview
+## Watch Demo Video
 
-[▶ Watch Demo Video](./demo.mp4)
+[▶]([YouTube](https://youtu.be/8iLpPdusxX8))
 
 ---
 
@@ -49,7 +49,7 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SanthoshKumar150822/dark-light-mode-toggle.git
 ```
 
 Open the project:
