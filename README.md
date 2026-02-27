@@ -40,7 +40,7 @@ This project is lightweight, framework-free, and designed with clean UI/UX princ
 
 ## Watch Demo Video
 
-▶([YouTube](https://youtu.be/8iLpPdusxX8))
+▶[YouTube](https://youtu.be/8iLpPdusxX8)
 
 ---
 
@@ -109,7 +109,7 @@ This project is open-source and available under the [MIT License](./LICENSE).
 
 ---
 
-## 🙌 Author
+## 💻 Author
 
 **Santhosh Kumar**  
 Built with ❤️ using vanilla web technologies.
